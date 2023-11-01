@@ -19,9 +19,10 @@ body {
   margin: 0;
   font-family: "Arial", sans-serif;
   font-size: 16px;
-  line-height: 1.5;
-  background-color: #fff;
-  color: #222;
+  line-height: 1.6;
+  font-weight: 400;
+  background-color: #FAFAFA;
+  color: #9597A5;
 }
 
 img {
